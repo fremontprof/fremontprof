@@ -1,3 +1,1 @@
-I'm a dedicated and highly skilled game developer with over 7 years of Game Development on Unity and Unreal Game Engine for both Mobile and PC platform.
-I have developed over 25+ games of different genres on unity & unreal engine and roblox engine.
-I work on long term & short term projects, and will provide you with a complete ready to publish project
+I'm a website developer specializing in Next.js and Cursor, crafting custom websites that are visually appealing, user-friendly, and optimized for performance. I focus on delivering engaging digital experiences that meet clients' unique needs.
